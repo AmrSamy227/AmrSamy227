@@ -49,16 +49,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmrSamy227&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Stack | Highlights |
